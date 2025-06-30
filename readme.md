@@ -2,4 +2,4 @@
 
 1(bankrupt values)   - 220
 
-Large data regarding o values.
+Large data regarding 0(non-bankrupt) values.
